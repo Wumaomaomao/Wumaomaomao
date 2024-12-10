@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+✨ I am a graduate student majoring in computer science in Fudan University, China. 
+
 <!--
 **Wumaomaomao/Wumaomaomao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
