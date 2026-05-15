@@ -2,7 +2,7 @@
 
 ✨ Master's candidate in Computer Science and Tenchnology @ **Fudan University, China**.
 
-🌱 Researching: **LLM4SE | Fuzzing | API Testing**
+🌱 Researching: **LLM4SE | Fuzzing | Agent Evaluation**
 
 <!--
 **Wumaomaomao/Wumaomaomao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
