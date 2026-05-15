@@ -4,6 +4,8 @@
 
 🌱 Researching: **LLM4SE | Fuzzing | Agent Evaluation**
 
+📫 How to reach me: yachenwu24@m.fudan.edu.cn
+
 <!--
 **Wumaomaomao/Wumaomaomao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
